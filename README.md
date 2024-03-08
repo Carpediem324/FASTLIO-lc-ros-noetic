@@ -30,7 +30,7 @@ Therefore, this project implements the pose graph optimization with a radius-sea
 
 ```bash
 cd YOUR_WORKSPACE/src
-git clone https://github.com/yanliang-wang/FAST_LIO_LC.git
+git clone https://github.com/Carpediem324/FASTLIO-lc-ros-noetic.git
 cd ..
 catkin_make
 ```
