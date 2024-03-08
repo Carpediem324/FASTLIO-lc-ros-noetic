@@ -2,6 +2,8 @@
 
 This version is for ROS1 Noetic, ubuntu 20.04
 
+Originated by (https://github.com/yanliang-wang/FAST_LIO_LC.git)
+
 
 The **tight** integration of [FAST-LIO](https://github.com/hku-mars/FAST_LIO) with Radius-Search-based loop closure module.
 
