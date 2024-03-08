@@ -12,7 +12,7 @@
     <param name="point_filter_num" type="int" value="4"/>
     <param name="max_iteration" type="int" value="3" />
     <param name="scan_publish_enable" type="bool" value="1" />
-	  <param name="dense_publish_enable" type="bool" value="1" />
+    <param name="dense_publish_enable" type="bool" value="1" />
     <param name="filter_size_surf" type="double" value="0.5" />   <!-- 对当前点云的filter -->
     <param name="filter_size_map" type="double" value="0.2" />    <!-- 对地图的filter -->
     <param name="cube_side_length" type="double" value="1000" />
