@@ -1,5 +1,10 @@
 # FAST_LIO_LC
 
+This version is for ROS1 Noetic, ubuntu 20.04
+
+Originated by (https://github.com/yanliang-wang/FAST_LIO_LC.git)
+
+
 The **tight** integration of [FAST-LIO](https://github.com/hku-mars/FAST_LIO) with Radius-Search-based loop closure module.
 
 **FAST-LIO** (Fast LiDAR-Inertial Odometry) is a computationally efficient and robust LiDAR-inertial odometry package. It fuses LiDAR feature points with IMU data using a tightly-coupled iterated extended Kalman filter. But it doesn't have a loop closure module to eliminate the accumulated drift.
@@ -25,7 +30,7 @@ Therefore, this project implements the pose graph optimization with a radius-sea
 
 ```bash
 cd YOUR_WORKSPACE/src
-git clone https://github.com/yanliang-wang/FAST_LIO_LC.git
+git clone https://github.com/Carpediem324/FASTLIO-lc-ros-noetic.git
 cd ..
 catkin_make
 ```
